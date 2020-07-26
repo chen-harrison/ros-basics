@@ -1,2 +1,2 @@
-*.cmake linguist-detectable=false
-*/CMakeLists.txt linguist-detectable=false
+*.txt linguist-detectable=false
+*.xml linguist-detectable=false
